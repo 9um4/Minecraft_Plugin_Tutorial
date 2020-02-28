@@ -1,0 +1,4 @@
+name: JoinQuitMessage
+version: 1.0
+main: guma.main.Main
+description: 플레이어의 입퇴장 메시지입니다.
