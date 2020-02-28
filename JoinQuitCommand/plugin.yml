@@ -1,5 +1,0 @@
-name: JoinQuitMessage
-version: 1.0.0
-main: guma.main.Main
-description: Test Plugin
-commands:
