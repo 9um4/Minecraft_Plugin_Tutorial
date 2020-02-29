@@ -7,6 +7,6 @@ public class Main extends JavaPlugin {
 	@Override
 	public void onEnable() {
 		getCommand("hello").setExecutor(new CommandHello());
-		getCommand("tps").setExecutor(new CommandTps());
+		getCommand("spawn").setExecutor(new CommandSpawn());
 	}
 }

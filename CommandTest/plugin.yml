@@ -6,6 +6,6 @@ commands:
   hello:
     description: basic command
     usage: /hello
-  tps:
+  spawn:
     description: teleport to spawn
-    usage: /tps
+    usage: /spawn
