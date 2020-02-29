@@ -1,0 +1,11 @@
+name: CommandTest
+main: main.Main
+version: 1.0
+author: sweetenpotato
+commands:
+  hello:
+    description: basic command
+    usage: /hello
+  tps:
+    description: teleport to spawn
+    usage: /tps
